@@ -1,0 +1,20 @@
+{
+  "name": "usetyton",
+  "interface": {
+    "displayName": "Tyton"
+  },
+  "plugins": [
+    {
+      "name": "tyton",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Business"
+    }
+  ]
+}
