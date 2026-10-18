@@ -27,9 +27,9 @@
       "interface": {
         "displayName": "Tyton",
         "shortDescription": "Meta Pixel and CAPI tracking",
-        "longDescription": "Tyton checks how a website's Meta Pixel and Conversions API (CAPI) are set up and explains, in plain words, what works, what is missing and what it could not confirm. The audit works on any public website and needs no sign-in.\n\nWith a Tyton account, you can also set up tracking for one website: sign in with Tyton, choose the website, follow Meta setup one step at a time, add your Conversions API token through a secure field, and review a conversion plan before anything goes live. Every tracking change needs your explicit approval.\n\nFor website owners, marketers and developers who run Meta ads. Tyton only reads and changes setup for the one website you approve. It does not create Meta accounts or Pixels for you, and it never makes up a Pixel ID or token.",
+        "longDescription": "Tyton checks how a website's Meta Pixel and Conversions API (CAPI) are set up and explains, in plain words, what works, what is missing and what it could not confirm. The audit works on any public website and needs no sign-in.\n\nWith a Tyton account, you can also set up tracking for one website: sign in with Tyton, choose the website, follow Meta setup one step at a time, add your Conversions API token through a secure field, and review a conversion plan before anything goes live. Every tracking change needs your explicit approval.\n\nFor website owners, marketers and developers who run Meta ads. Tyton only reads and changes setup for the one website you approve. It does not create Meta accounts or Pixels for you, and it never makes up a Pixel ID or token.\n\nTyton's Free plan covers one website and 10,000 events a month, with no card needed.",
         "developerName": "Tyton",
-        "category": "Business",
+        "category": "Developer Tools",
         "capabilities": [
           "Audit Meta tracking",
           "Read setup progress",
