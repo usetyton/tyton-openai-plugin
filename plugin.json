@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "tyton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Audit a website's Meta Pixel and Conversions API setup without signing in, then set up tracking with Tyton: sign in, connect one website, save your Conversions API token safely and approve the conversions you want to track.",
   "author": {
     "name": "Tyton",
@@ -101,7 +101,7 @@
         "commerce_description": "The plugin does not sell products or take payments in ChatGPT or Codex. Users sign in to an existing Tyton account at usetyton.com."
       },
       "publication": {
-        "release_notes": "First release. Audit any public website's Meta Pixel and Conversions API setup without signing in. With a Tyton account: sign in with Tyton, connect one website, follow Meta setup step by step, add the Conversions API token through a secure path, review and approve a conversion plan, and check tracking status. Includes three skills: meta-tracking-audit, meta-tracking-setup and conversions-api-token."
+        "release_notes": "Tyton now has a Free plan. The setup skill points accounts without a plan to it, and never starts a checkout."
       }
     }
   }
